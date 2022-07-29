@@ -1,0 +1,76 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    text-align: center;
+    width: auto;
+    background-image: linear-gradient(green, white, green);
+}
+
+.header {
+    background-image: url("images/9jabydavid.jpg");
+    align-content: center;
+    height: 200px;
+    background-size: cover;
+    text-align: center;
+    color: green;
+    text-shadow: 2px 0px 2px white;
+    font-family: 'New Rocker', cursive;
+}
+
+.about {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    color: #1D3557;
+    font-style: italic;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+}
+
+.tourism {
+   width: auto;
+   margin-left: 20px;
+   margin-right: 20px;
+   display: flex;
+   padding: 10px
+}
+
+h3 {
+    color: #E63946;
+    text-align: center;
+}
+p {
+   color: #457B9D;
+   font-weight: bold;
+   padding: 5px;
+}
+
+img {
+    width: auto;
+    height: 200px;
+    padding: 5px;
+}
+
+profilepic {
+    width: auto;
+    height: auto;
+}
+.borderline {
+    border: 2px solid #457B9D;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h4 {
+    color: #A8DADC;
+}
